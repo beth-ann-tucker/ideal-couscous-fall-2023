@@ -1,4 +1,4 @@
-$( document ).ready(function() {
+$(document).ready(function() {
   
   //allow user to interact with doge by clicking on his immage to reveal a wow message
   $('#hidingDoge').click(
